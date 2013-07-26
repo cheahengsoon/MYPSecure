@@ -1,0 +1,13 @@
+c:\users\bobi\documents\visual studio 2010\Projects\AddressChooserTaskDemo\AddressChooserTaskDemo\Bin\Debug\ApplicationIcon.jpg
+c:\users\bobi\documents\visual studio 2010\Projects\AddressChooserTaskDemo\AddressChooserTaskDemo\Bin\Debug\Background.jpg
+c:\users\bobi\documents\visual studio 2010\Projects\AddressChooserTaskDemo\AddressChooserTaskDemo\Bin\Debug\AddressChooserTaskDemo.dll
+c:\users\bobi\documents\visual studio 2010\Projects\AddressChooserTaskDemo\AddressChooserTaskDemo\Bin\Debug\AddressChooserTaskDemo.pdb
+c:\users\bobi\documents\visual studio 2010\Projects\AddressChooserTaskDemo\AddressChooserTaskDemo\Bin\Debug\AppManifest.xaml
+c:\users\bobi\documents\visual studio 2010\Projects\AddressChooserTaskDemo\AddressChooserTaskDemo\Bin\Debug\AddressChooserTaskDemo.xap
+c:\users\bobi\documents\visual studio 2010\Projects\AddressChooserTaskDemo\AddressChooserTaskDemo\obj\Debug\ResolveAssemblyReference.cache
+c:\users\bobi\documents\visual studio 2010\Projects\AddressChooserTaskDemo\AddressChooserTaskDemo\obj\Debug\App.g.i.cs
+c:\users\bobi\documents\visual studio 2010\Projects\AddressChooserTaskDemo\AddressChooserTaskDemo\obj\Debug\MainPage.g.i.cs
+c:\users\bobi\documents\visual studio 2010\Projects\AddressChooserTaskDemo\AddressChooserTaskDemo\obj\Debug\AddressChooserTaskDemo.g.resources
+c:\users\bobi\documents\visual studio 2010\Projects\AddressChooserTaskDemo\AddressChooserTaskDemo\obj\Debug\AddressChooserTaskDemo.dll
+c:\users\bobi\documents\visual studio 2010\Projects\AddressChooserTaskDemo\AddressChooserTaskDemo\obj\Debug\AddressChooserTaskDemo.pdb
+c:\users\bobi\documents\visual studio 2010\Projects\AddressChooserTaskDemo\AddressChooserTaskDemo\obj\Debug\XapCacheFile.xml

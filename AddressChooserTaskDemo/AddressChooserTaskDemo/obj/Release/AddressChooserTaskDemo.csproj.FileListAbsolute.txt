@@ -1,0 +1,12 @@
+C:\Users\cheahengsoon\Desktop\AddressChooserTaskDemo\AddressChooserTaskDemo\Bin\Release\ApplicationIcon.jpg
+C:\Users\cheahengsoon\Desktop\AddressChooserTaskDemo\AddressChooserTaskDemo\Bin\Release\Background.jpg
+C:\Users\cheahengsoon\Desktop\AddressChooserTaskDemo\AddressChooserTaskDemo\Bin\Release\AddressChooserTaskDemo.dll
+C:\Users\cheahengsoon\Desktop\AddressChooserTaskDemo\AddressChooserTaskDemo\Bin\Release\AddressChooserTaskDemo.pdb
+C:\Users\cheahengsoon\Desktop\AddressChooserTaskDemo\AddressChooserTaskDemo\Bin\Release\AppManifest.xaml
+C:\Users\cheahengsoon\Desktop\AddressChooserTaskDemo\AddressChooserTaskDemo\Bin\Release\AddressChooserTaskDemo.xap
+C:\Users\cheahengsoon\Desktop\AddressChooserTaskDemo\AddressChooserTaskDemo\obj\Release\App.g.cs
+C:\Users\cheahengsoon\Desktop\AddressChooserTaskDemo\AddressChooserTaskDemo\obj\Release\MainPage.g.cs
+C:\Users\cheahengsoon\Desktop\AddressChooserTaskDemo\AddressChooserTaskDemo\obj\Release\AddressChooserTaskDemo.g.resources
+C:\Users\cheahengsoon\Desktop\AddressChooserTaskDemo\AddressChooserTaskDemo\obj\Release\AddressChooserTaskDemo.dll
+C:\Users\cheahengsoon\Desktop\AddressChooserTaskDemo\AddressChooserTaskDemo\obj\Release\AddressChooserTaskDemo.pdb
+C:\Users\cheahengsoon\Desktop\AddressChooserTaskDemo\AddressChooserTaskDemo\obj\Release\XapCacheFile.xml
